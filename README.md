@@ -1,54 +1,61 @@
-# Fullstack Mobile and Web App with React Native, Supabase, and Next.js
+# 📱 Fullstack Mobile & Web E-Commerce App with React Native, Supabase & Next.js
 
-Welcome to the Fullstack Mobile and Web App Course! In this project, you'll learn how to build a mobile e-commerce app using React Native and Supabase, along with an admin panel built with Next.js.
+Welcome to my **Fullstack Mobile & Web E-Commerce App** project! 🚀
 
-This README will guide you through setting up the project, running the mobile and web applications, and exploring the course content.
+This app includes a sleek mobile shopping experience built with **React Native** and **Supabase**, plus a powerful admin dashboard built using **Next.js** to manage products and orders easily.
 
-## Prerequisites
+---
 
-Before starting, ensure you have the following installed:
+## 🔧 Prerequisites
 
-- Node.js (v14 or later)
-- npm
-- Git
+Before you begin, make sure you have:
 
-## Getting Started
+- Node.js (v14 or newer) 🔥  
+- npm (comes with Node.js) 📦  
+- Git 🐙  
 
-Follow these steps to set up the project:
+---
 
-### 1. Clone the Repository
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/laribright/gadgets-shop-admin.git
+git clone https://github.com/OshanaKavishan/gadgets-shop-admin.git
 cd gadgets-shop-admin
 ```
+### 2️⃣ Install Dependencies
 
-2. **Install Dependencies:**
+```bash
+npm install
+```
+### 3️⃣ Configure Environment Variables
+Rename .env.example to .env.local and update with your own keys and URLs:
+```bash
+mv .env.example .env.local
+```
+🔑 Add your Supabase credentials and any other required environment variables.
 
-   ```bash
-   npm install
-   ```
+### 4️⃣ Start the Development Server
+```bash
+npm run dev
+```
+Open your browser at 👉 http://localhost:3000 to see the admin panel.
 
-3. **Set Up Environment Variables:**
+## 🗂️ Project Structure
+- /mobile — React Native mobile app
 
-   - Rename the `.env.example` file to `.env.local` and fill in the required environment variables.
+- /admin — Next.js admin dashboard
 
-   ```bash
-   mv .env.example .env.local
-   ```
+- /backend — Supabase backend and database
 
-4. **Run the Development Server:**
+## 🤝 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to connect. ✨
 
-   ```bash
-   npm run dev
-   ```
+## 🎥 Watch the Full Course Video
+If you want to deepen your understanding or explore a step-by-step guide related to this project, check out this helpful YouTube playlist:
 
-   Your app should now be running on [http://localhost:3000](http://localhost:3000).
+👉 [Fullstack Gadgets App: React Native Expo & Next.js Admin](https://youtu.be/26opRFPU0a8)
 
-### Environment Variables
-
-Make sure to properly configure your environment variables by referring to the `.env.example` file. This file contains example values and instructions on what needs to be filled in.
-
-## Course Video
-
-Watch the full course on YouTube: [Fullstack Gadgets App: React Native Expo & NextJs Admin](https://youtu.be/26opRFPU0a8)
