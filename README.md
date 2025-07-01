@@ -6,6 +6,30 @@ This app includes a sleek mobile shopping experience built with **React Native**
 
 ---
 
+## 📸 Preview Screenshots
+
+Take a look at some key sections of the project:
+
+### 🧑‍💼 Admin Panel (Next.js)
+
+- **Dashboard**
+  
+  ![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+- **Categories Management**
+  
+  ![Admin Categories](./screenshots/admin-categories.png)
+
+- **Products Management**
+  
+  ![Admin Products](./screenshots/admin-products.png)
+
+- **Orders Management**
+  
+  ![Admin Orders](./screenshots/admin-orders.png)
+  
+---
+
 ## 🔧 Prerequisites
 
 Before you begin, make sure you have:
