@@ -83,3 +83,12 @@ If you want to deepen your understanding or explore a step-by-step guide related
 
 👉 [Fullstack Gadgets App: React Native Expo & Next.js Admin](https://youtu.be/26opRFPU0a8)
 
+## 🤝 Let's Work Together
+
+I'm Oshana Kavishan — passionate about building modern web and mobile applications.  
+If you're interested in working together or just want to connect, feel free to reach out!
+
+- 📧 Email: kavishansilva@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/oshana-kavishan-9ab10b23b](https://www.linkedin.com/in/oshana-kavishan-9ab10b23b)  
+- 💻 GitHub: [github.com/OshanaKavishan](https://github.com/OshanaKavishan)
+
